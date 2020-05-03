@@ -5,4 +5,3 @@ Directories:
 -/test : contains Google Test codes to test several code files in the /lib directory.
 -/lib  : contains source files for several data structures: Stack, Queue, Binary Tree, Graph, Hash Table, Map and others.
 
-# P1
